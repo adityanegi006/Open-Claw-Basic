@@ -16,8 +16,3 @@ Send a plain English message and the agent will execute the appropriate shell co
 - OpenAI SDK
 
 
-## Project Structure
-
-## Open Claw ->
-open-claw->todo-app
-
