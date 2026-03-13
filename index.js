@@ -18,7 +18,7 @@ app.post('/message', async (req, res) => {
     }
 });
 
-// ✅ make sure this is at the bottom and not inside any block
+
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
